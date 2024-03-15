@@ -1,6 +1,7 @@
 # MDP Value Iteration with GUI
 
 This project implements the Markov Decision Process (MDP) Value Iteration algorithm with a Graphical User Interface (GUI) to visualize the changes in grid values with each iteration. The GUI is made using CustomTkinter
+![image](https://github.com/tanvir-a0/MDP-Value-Iteration-/assets/66798561/48aefa0e-93b8-4b87-b67c-d2db3519dcf1)
 
 ## How to Use
 
