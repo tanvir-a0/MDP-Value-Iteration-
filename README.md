@@ -4,7 +4,7 @@ This project implements the Markov Decision Process (MDP) Value Iteration algori
 
 ## How to Use
 
-1. Clone the repository: `https://github.com/tanvir-a0/MDP-Value-Iteration-.git`
+1. Clone the repository: `git clone https://github.com/tanvir-a0/MDP-Value-Iteration-.git`
 2. Navigate to the project directory: `cd MDP-Value-Iteration-`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the application: `python main.py`
